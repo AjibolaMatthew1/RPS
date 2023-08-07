@@ -11,6 +11,8 @@ The project consists of the following files:
 
 model1/: This directory contains the saved machine learning model. The trained model is stored here for later use and inference.
 
+model2/: Uses the same architecture as model1 but with more diverse data. Yields a better result.
+
 ## Dependencies
 The project relies on the following libraries:
 
